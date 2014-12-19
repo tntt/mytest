@@ -13,7 +13,8 @@
 
 ### 代码
 正文中插入代码的<code>Hello world!</code>样子。
-	#include <stdio.h>
-	print("Hello world!");
-	return 0;
-
+``` c
+#include <stdio.h>
+print("Hello world!");
+return 0;
+```
